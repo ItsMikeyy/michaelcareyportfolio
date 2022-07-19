@@ -169,6 +169,11 @@ video {
   color: black;
   font-size: 1.3rem;
 }
+
+.project-content > img {
+  object-fit: cover;
+}
+
 .project-links{
   position: absolute;
   bottom: 10px;

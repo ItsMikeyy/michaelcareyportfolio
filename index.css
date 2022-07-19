@@ -172,6 +172,7 @@ video {
 
 .project-content > img {
   object-fit: cover;
+  max-height: 338px;
 }
 
 .project-links{

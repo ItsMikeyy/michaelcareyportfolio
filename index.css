@@ -171,8 +171,9 @@ video {
 }
 
 .project-content > img {
-  object-fit: cover;
-  max-height: 338px;
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
 }
 
 .project-links{

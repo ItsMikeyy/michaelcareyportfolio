@@ -41,6 +41,9 @@ img { width: 100%; height: auto; }
   display: flex;
   align-items: center;
 }
+.img-link{
+  overflow-x: visible;
+}
 .logo {
   font-size: 4rem;
   margin-left: 3rem;
@@ -219,6 +222,7 @@ img { width: 100%; height: auto; }
   padding: 1rem;
   margin: 1rem;
   transition: background-color 0.25s;
+  overflow: hidden;
 }
 .project-links button:hover{
   background-color: rgb(146, 146, 146);
